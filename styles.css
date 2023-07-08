@@ -1,0 +1,25 @@
+body{
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#aa{
+    border: 5px solid mediumvioletred;
+    border: radius 4px;
+    padding: 3px;
+    width: 675px;
+    height: 365px;
+    background-color: mediumvioletred;
+    display:flex;
+    text-align: center;
+    justify-content: center;  
+}
+#bb{
+    border: 1px solid maroon ;
+    border: radius 4px;
+    padding: 5px;
+    width: 375px;
+    height: 350px;
+    background-color: maroon;  
+}
